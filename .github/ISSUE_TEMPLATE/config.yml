@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 GitHub Discussions
+    url: https://github.com/dennisbot/skills-integrate-mcp-with-copilot/discussions
+    about: Ask questions and discuss ideas with the community
+  - name: 📚 Documentation
+    url: https://github.com/dennisbot/skills-integrate-mcp-with-copilot/blob/main/src/README.md
+    about: Check the documentation for help with the API
